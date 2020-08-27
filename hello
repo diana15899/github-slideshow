@@ -1,5 +1,0 @@
-public class Main (){
-  public class void main (System.in){
-    System.out.println("hello");
-  }
-}
